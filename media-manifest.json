@@ -1,0 +1,16 @@
+{
+  "project": "Agent Action Security Lab",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 254442,
+      "sha256": "d108045156dc98d9551c0cb79fbae13f10d2fd23c264b0e46e46f77acd73c53c"
+    },
+    {
+      "path": "media/walkthrough.mp4",
+      "bytes": 2478215,
+      "sha256": "c489a931d04bf8792143760d8a16350252549c352001087a584590ab7aeb1cfc"
+    }
+  ]
+}
